@@ -33,10 +33,10 @@ github_username:  jekyll
 markdown: kramdown
 highlighter: rouge
 
-theme: minima
+theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
-#  - jekyll-sitemap
+  - jekyll-include-cache
 
 # Collections
 collections:
