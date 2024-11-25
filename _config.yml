@@ -33,7 +33,7 @@ github_username:  jekyll
 markdown: kramdown
 highlighter: rouge
 
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 plugins:
   - jekyll-feed
   - jekyll-include-cache
